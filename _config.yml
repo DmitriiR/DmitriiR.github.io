@@ -1,5 +1,2 @@
 theme: jekyll-theme-architect
-name: Projects
-markdown: redcarpet
-pygments: true
-baseurl: /christmas-recipes
+
