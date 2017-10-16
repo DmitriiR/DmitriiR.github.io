@@ -2,14 +2,18 @@
 
 Below are some projects I have had the pleasure of working on for the last little while. Feel free to download and enjoy. 
 
-### Projects 
+# Projects 
 
-#### DinoTank
+## DinoTank
 
 Dinosaurs driving tanks, naturally! Dmitrii implemented all the fundamental features and framework for this Android mobile game and took a lead role in its development and release. DinoTank features dynamic combat, single player campaign, multiplayer combat, advanced physics, monetization/upgrade system and currency. Apart the core of game, Dmitrii also implemented advanced features such as realistic tank physics, projectile ballistics computations, damage modeling, advanced AI, object pooling, latency compensation, state storage system, mesh welding, post processing and shaders, and other systems. 
 
+![useful image]({{ site.url }}/assets/DinoTankMainMenu.png)
+![useful image]({{ site.url }}/assets/DinoTankChooser.png)
+![useful image]({{ site.url }}/assets/DinoTankGameplay.png)
 
-#### GoFish
+
+## GoFish
 
 ASCII classic game Go Fish written in C++ as part of a class project in month 2 of the game development program.  
 
