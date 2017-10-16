@@ -19,11 +19,8 @@ Elementum is an action RPG game written in C++ within the Unreal Engine framewor
 ![useful image]({{ site.url }}/assets/ElementumGameplay.png)
 
 You can download the game here [Part1]({{ site.url }}/assets/Elementum.part1.rar).
-
 You can download the game here [Part2]({{ site.url }}/assets/Elementum.part2.rar).
-
 You can download the game here [Part3]({{ site.url }}/assets/Elementum.part3.rar).
-
 You can download the game here [Part4]({{ site.url }}/assets/Elementum.part4.rar).
 
 ## Apoptosis
@@ -47,13 +44,15 @@ A personal project game written in Unity C#, with the objective of matching colo
 
 A personal project game written in Unity C#. An endless runner, where the player tries to beat the clock whilst escaping his greatest nightmare.
 
+![useful image]({{ site.url }}/assets/Nightmare.png)
+
 ## Escape From Pluto
 
 ASCII - based scrolling shooter “Bullet Hell” that won Dmitrii the prestigious course director award and is still used by the instructor as an example of what this course demands from students.
 
 ![useful image]({{ site.url }}/assets/EscapeFromPluto.png)
-[Download]({{ site.url }}/assets/Escape From Pluto.zip).
-
+[Download .exe]({{ site.url }}/assets/Escape From Pluto.zip).
+[Download solition]({{ site.url }}/assets/EscapeFromPlutopSLN.zip).
 ## Rak Tool 
 
 As an independent project, Dmitrii created an asset manipulation tool that greatly enriched and expanded the functionality of the Burnout Studios RAK Asset Pack is currently available on the Unity Store. 
