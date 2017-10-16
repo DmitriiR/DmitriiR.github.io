@@ -16,6 +16,8 @@ Dinosaurs driving tanks, naturally! Dmitrii implemented all the fundamental feat
 
 Elementum is an action RPG game written in C++ within the Unreal Engine framework. As part of a Development team, Dmitrii designed and implemented game features with the specific focus on AI Behavior, Animation Systems, Effects, Gameplay and the complete experience of the game finale. 
 
+![useful image]({{ site.url }}/assets/ElementumGameplay.png)
+
 You can download the game here [Part1]({{ site.url }}/assets/Elementum.part1.rar).
 
 You can download the game here [Part2]({{ site.url }}/assets/Elementum.part2.rar).
