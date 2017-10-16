@@ -52,6 +52,7 @@ A personal project game written in Unity C#. An endless runner, where the player
 ASCII - based scrolling shooter “Bullet Hell” that won Dmitrii the prestigious course director award and is still used by the instructor as an example of what this course demands from students.
 
 ![useful image]({{ site.url }}/assets/EscapeFromPluto.png)
+[Download]({{ site.url }}/assets/Escape From Pluto.zip).
 
 ## Rak Tool 
 
