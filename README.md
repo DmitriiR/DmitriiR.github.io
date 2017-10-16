@@ -12,7 +12,7 @@ Dinosaurs driving tanks, naturally! Dmitrii implemented all the fundamental feat
 ![useful image]({{ site.url }}/assets/DinoTankChooser.png)
 ![useful image]({{ site.url }}/assets/DinoTankGameplay.png)
 
-
+Unfortunately this project is in development and not available for download.
 
 ## Elementum
 
@@ -23,7 +23,7 @@ Elementum is an action RPG game written in C++ within the Unreal Engine framewor
 You can download the game here [Part1]({{ site.url }}/assets/Elementum.part1.rar).
 [Part2]({{ site.url }}/assets/Elementum.part2.rar).
 [Part3]({{ site.url }}/assets/Elementum.part3.rar).
-[Part4]({{ site.url }}/assets/Elementum.part4.rar).
+[Part4]({{ site.url }}/assets/Elementum.part4.rar). Download and extract from the 1st archive.
 
 
 
@@ -33,6 +33,7 @@ Apoptosis is a networked Real Time Strategy (“RTS”) that takes place in the 
 
 ![useful image]({{ site.url }}/assets/ApopotosisMM.png)
 ![useful image]({{ site.url }}/assets/Apoptossis.png)
+
 [Download]({{ site.url }}/assets/Apoptosis_Installer.zip).
 
 
