@@ -4,11 +4,13 @@ You can use the [editor on GitHub](https://github.com/DmitriiR/DmitriiR.github.i
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+<img src="images/waypoint.png.png" alt="hi" class="inline"/>
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 https://github.com/DmitriiR/DmitriiR.github.io/tree/master/images
-![useful image](https://github.com/DmitriiR/DmitriiR.github.io/assets/image.png)
+![image](src)
 ```markdown
 Syntax highlighted code block
 
