@@ -21,6 +21,10 @@ Elementum is an action RPG game written in C++ within the Unreal Engine framewor
 Apoptosis is a networked Real Time Strategy (“RTS”) that takes place in the world of the microscopic. Taking the project lead role, Dmitrii created and deployed the complete user interface and developed the game’s styling UI, Design, Levels, Art, Gameplay, Programming and drove the marketing and promotion effort. As a result of Dmitrii’s efforts, the game attracted pleasing interest at the Independent Game Developer Exhibition in Orlando FL in 2016. 
 
 ![useful image]({{ site.url }}/assets/Apoptossis.png)
+You can download the game here [Part1]({{ site.url }}/assets/Elementum.part1.rar).
+You can download the game here [Part2]({{ site.url }}/assets/Elementum.part2.rar).
+You can download the game here [Part3]({{ site.url }}/assets/Elementum.part3.rar).
+You can download the game here [Part4]({{ site.url }}/assets/Elementum.part4.rar).
 
 ## Tektonik
 
