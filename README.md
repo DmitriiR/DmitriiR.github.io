@@ -67,6 +67,7 @@ ASCII - based scrolling shooter “Bullet Hell” that won Dmitrii the prestigio
 
 ![useful image]({{ site.url }}/assets/EscapeFromPluto.png)
 [Download .exe]({{ site.url }}/assets/Escape From Pluto.zip).
+
 [Download solition]({{ site.url }}/assets/EscapeFromPlutopSLN.zip).
 
 
@@ -76,7 +77,6 @@ As an independent project, Dmitrii created an asset manipulation tool that great
 
 ![useful image]({{ site.url }}/assets/RAKTool.png)
 
-
 Unfortunately this project is in development and not available for download.
 
 ## GoFish
@@ -84,6 +84,7 @@ Unfortunately this project is in development and not available for download.
 ASCII classic game Go Fish written in C++ as part of a class project in month 2 of the game development program.  
 
 ![useful image]({{ site.url }}/assets/GoFish.png)
+
 [Download]({{ site.url }}/assets/GoFish.zip).
 
 
