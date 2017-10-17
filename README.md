@@ -74,6 +74,8 @@ ASCII - based scrolling shooter “Bullet Hell” that won Dmitrii the prestigio
 
 As an independent project, Dmitrii created an asset manipulation tool that greatly enriched and expanded the functionality of the Burnout Studios RAK Asset Pack is currently available on the Unity Store. 
 ![useful image]({{ site.url }}/assets/RAKTool.png)
+
+
 Unfortunately this project is in development and not available for download.
 
 ## GoFish
