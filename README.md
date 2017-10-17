@@ -50,6 +50,7 @@ A personal project game written in Unity C#, with the objective of matching colo
 
 ![useful image]({{ site.url }}/assets/BlockMatch.png)
 
+[Download]({{ site.url }}/assets/BlockMatch.zip).
 
 
 ## Nightmare Fever
