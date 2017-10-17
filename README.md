@@ -23,7 +23,7 @@ Elementum is an action RPG game written in C++ within the Unreal Engine framewor
 You can download the game here [Part1]({{ site.url }}/assets/Elementum.part1.rar).
 [Part2]({{ site.url }}/assets/Elementum.part2.rar).
 [Part3]({{ site.url }}/assets/Elementum.part3.rar).
-[Part4]({{ site.url }}/assets/Elementum.part4.rar). Download and extract from the 1st archive.
+[Part4]({{ site.url }}/assets/Elementum.part4.rar). Download all and extract from Part1.
 
 
 
@@ -61,7 +61,7 @@ A personal project game written in Unity C#. An endless runner, where the player
 
 ![useful image]({{ site.url }}/assets/Nightmare.png)
 
-
+[Download]({{ site.url }}/assets/NightmareFever.zip).
 
 ## Escape From Pluto
 
