@@ -8,9 +8,9 @@ Below are some projects I have had the pleasure of working on for the last littl
 
 Dinosaurs driving tanks, naturally! Dmitrii implemented all the fundamental features and framework for this Android mobile game and took a lead role in its development and release. DinoTank features dynamic combat, single player campaign, multiplayer combat, advanced physics, monetization/upgrade system and currency. Apart the core of game, Dmitrii also implemented advanced features such as realistic tank physics, projectile ballistics computations, damage modeling, advanced AI, object pooling, latency compensation, state storage system, mesh welding, all UI + scenes and transisions, post processing and shaders, and other systems. 
 
-![useful image]({{ site.url }}/assets/DinoTankMainMenu.png)
-![useful image]({{ site.url }}/assets/DinoTankChooser.png)
-![useful image]({{ site.url }}/assets/DinoTankGameplay.png)
+![useful image]({{ site.url }}/assets/mm.png)
+![useful image]({{ site.url }}/assets/Chooser.png)
+![useful image]({{ site.url }}/assets/Screen.png)
 
 Unfortunately this project is in development and not available for download.
 
@@ -32,6 +32,8 @@ You can download the game here [Part1]({{ site.url }}/assets/Elementum.part1.rar
 Apoptosis is a networked Real Time Strategy (“RTS”) that takes place in the world of the microscopic. Taking the project lead role, Dmitrii created and deployed the complete user interface and developed the game’s styling UI, Design, Levels, Art, Gameplay, Programming and drove the marketing and promotion effort. As a result of Dmitrii’s efforts, the game attracted pleasing interest at the Independent Game Developer Exhibition in Orlando FL in 2016. 
 
 ![useful image]({{ site.url }}/assets/ApopotosisMM.png)
+![useful image]({{ site.url }}/assets/ApopotosisMM.png)
+
 ![useful image]({{ site.url }}/assets/Apoptossis.png)
 
 [Download]({{ site.url }}/assets/Apoptosis_Installer.zip).
