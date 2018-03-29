@@ -9,7 +9,7 @@ Below are some projects I have had the pleasure of working on for the last littl
 Dinosaurs driving tanks, naturally! Dmitrii implemented all the fundamental features and framework for this Android mobile game and took a lead role in its development and release. DinoTank features dynamic combat, single player campaign, multiplayer combat, advanced physics, monetization/upgrade system and currency. Apart the core of game, Dmitrii also implemented advanced features such as realistic tank physics, projectile ballistics computations, damage modeling, advanced AI, object pooling, latency compensation, state storage system, mesh welding, all UI + scenes and transisions, post processing and shaders, and other systems. 
 
 ![useful image]({{ site.url }}/assets/mm.png)
-![useful image]({{ site.url }}/assets/Chooser.png)
+![useful image]({{ site.url }}/assets/Chooser.PNG)
 ![useful image]({{ site.url }}/assets/Screen.png)
 
 Unfortunately this project is in development and not available for download.
