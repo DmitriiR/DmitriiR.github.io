@@ -3,25 +3,10 @@
 
 Hi there ! 
 Below are some projects I have had the pleasure of working on for the last little while. Feel free to download and enjoy. In addition I'm sharing some of my most favorite tricks and systems, feel free to get source. 
+
+
 <!-- Place this tag where you want the button to render. -->
 <a class="github-button" href="https://github.com/DmitriiR" data-size="large" aria-label="Follow @DmitriiR on GitHub">Follow @DmitriiR</a>
-
-# Code 
-## Object Pool / Factory
-This is a system used in DinoTank for creating and pooling objects, Its a factory method and an object pool combined.
- 
-[Vew Repo](https://github.com/DmitriiR/ObjectPool)
- 
-<!-- Place this tag where you want the button to render. -->
-<a class="github-button" href="https://github.com/DmitriiR/ObjectPool/archive/master.zip" data-icon="octicon-cloud-download" data-size="large" aria-label="Download DmitriiR/ObjectPool on GitHub">Get Code</a>
-
-## Event Manager
-This is a neat event system I use for my global events. Classes tell the EventManager to let them know when events occur and run logic.    
-
-[Vew Repo](https://github.com/DmitriiR/EventManager)
-<!-- Place this tag where you want the button to render. -->
-<a class="github-button" href="https://github.com/DmitriiR/EventManager/archive/master.zip" data-icon="octicon-cloud-download" data-size="large" aria-label="Download DmitriiR/EventManager on GitHub">Get Code</a>
-
 
 
 # Projects 
@@ -115,6 +100,24 @@ ASCII classic game Go Fish written in C++ as part of a class project in month 2 
 ![useful image]({{ site.url }}/assets/GoFish.png)
 
 [Download]({{ site.url }}/assets/GoFish.zip).
+
+
+# Code 
+## Object Pool / Factory
+This is a system used in DinoTank for creating and pooling objects, Its a factory method and an object pool combined.
+ 
+[Vew Repo](https://github.com/DmitriiR/ObjectPool)
+ 
+<!-- Place this tag where you want the button to render. -->
+<a class="github-button" href="https://github.com/DmitriiR/ObjectPool/archive/master.zip" data-icon="octicon-cloud-download" data-size="large" aria-label="Download DmitriiR/ObjectPool on GitHub">Get Code</a>
+
+## Event Manager
+This is a neat event system I use for my global events. Classes tell the EventManager to let them know when events occur and run logic.    
+
+[Vew Repo](https://github.com/DmitriiR/EventManager)
+<!-- Place this tag where you want the button to render. -->
+<a class="github-button" href="https://github.com/DmitriiR/EventManager/archive/master.zip" data-icon="octicon-cloud-download" data-size="large" aria-label="Download DmitriiR/EventManager on GitHub">Get Code</a>
+
 
 
 
