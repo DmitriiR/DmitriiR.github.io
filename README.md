@@ -15,12 +15,14 @@ Dinosaurs driving tanks, naturally! Dmitrii implemented all the fundamental feat
 
 [I'm an inline-style link](https://www.google.com)
 [I'm an inline-style link](https://github.com/DmitriiR/NightmareFever)
+
 <!-- Place this tag where you want the button to render. -->
+
 <a class="github-button"
-   href="{{ link }}"
-   title="{{ title }}"
+   href="{{ https://www.google.com}}"
+   title="{{ SomeButton}}"
    data-icon="{{ octicon }}"
-   data-size="{{ size }}"
+   data-size="{{ 20 }}"
    data-show-count="{{ show count }}"
    data-text="{{ text }}"
    aria-label="{{ aria label }}"
