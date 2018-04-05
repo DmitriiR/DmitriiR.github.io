@@ -1,8 +1,19 @@
 ﻿<!-- Place this tag in your head or just before your close body tag. -->
 <script async defer src="https://buttons.github.io/buttons.js"></script>
-Hi there ! 
 
-Below are some projects I have had the pleasure of working on for the last little while. Feel free to download and enjoy. 
+<!-- Place this tag where you want the button to render. -->
+<a class="github-button" href="https://github.com/DmitriiR/NightmareFever/archive/master.zip" data-icon="octicon-cloud-download" data-size="large" aria-label="Download DmitriiR/NightmareFever on GitHub">Download2</a>
+Hi there ! 
+Below are some projects I have had the pleasure of working on for the last little while. Feel free to download and enjoy. In addition I'm sharing some of my most favorite tricks and systems, feel free to get source. 
+<!-- Place this tag where you want the button to render. -->
+<a class="github-button" href="https://github.com/DmitriiR" data-size="large" aria-label="Follow @DmitriiR on GitHub">Follow @DmitriiR</a>
+
+# Code 
+## Object Pool / Factory
+This is a system used in DinoTank for creating and pooling objects, Its a factory method and an object pool combined. 
+[Vew Repo](https://github.com/DmitriiR/ObjectPool)
+<!-- Place this tag where you want the button to render. -->
+<a class="github-button" href="https://github.com/DmitriiR/ObjectPool/archive/master.zip" data-icon="octicon-cloud-download" data-size="large" aria-label="Download DmitriiR/ObjectPool on GitHub">Get Code</a>
 
 # Projects 
 
@@ -15,15 +26,6 @@ Dinosaurs driving tanks, naturally! Dmitrii implemented all the fundamental feat
 ![useful image]({{ site.url }}/assets/Chooser.PNG)
 ![useful image]({{ site.url }}/assets/Screen.png)
 
-[I'm an inline-style link](https://www.google.com)
-[I'm an inline-style link](https://github.com/DmitriiR/NightmareFever)
-
-<!-- Place this tag where you want the button to render. -->
-<a class="github-button" href="https://github.com/DmitriiR/NightmareFever/archive/master.zip" data-icon="octicon-cloud-download" data-size="large" aria-label="Download1 DmitriiR/NightmareFever on GitHub">Download2</a>
-
-button rendered 
-
-Unfortunately this project is in development and not available for download.
 
 ***
 ## Elementum
