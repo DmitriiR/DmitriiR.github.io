@@ -10,10 +10,15 @@ Below are some projects I have had the pleasure of working on for the last littl
 
 # Code 
 ## Object Pool / Factory
-This is a system used in DinoTank for creating and pooling objects, Its a factory method and an object pool combined. 
+This is a system used in DinoTank for creating and pooling objects, Its a factory method and an object pool combined.
+ 
 [Vew Repo](https://github.com/DmitriiR/ObjectPool)
+ 
 <!-- Place this tag where you want the button to render. -->
 <a class="github-button" href="https://github.com/DmitriiR/ObjectPool/archive/master.zip" data-icon="octicon-cloud-download" data-size="large" aria-label="Download DmitriiR/ObjectPool on GitHub">Get Code</a>
+
+## Event Manager
+This is a neat event system I use for my global events. Classes tell the EventManager let them know when events occur and run logic.    
 
 # Projects 
 
