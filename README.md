@@ -12,6 +12,8 @@ Dinosaurs driving tanks, naturally! Dmitrii implemented all the fundamental feat
 ![useful image]({{ site.url }}/assets/Chooser.PNG)
 ![useful image]({{ site.url }}/assets/Screen.png)
 
+[I'm an inline-style link](https://www.google.com)
+
 Unfortunately this project is in development and not available for download.
 
 ## Elementum
