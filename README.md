@@ -1,8 +1,6 @@
 ﻿<!-- Place this tag in your head or just before your close body tag. -->
 <script async defer src="https://buttons.github.io/buttons.js"></script>
 
-<!-- Place this tag where you want the button to render. -->
-<a class="github-button" href="https://github.com/DmitriiR/NightmareFever/archive/master.zip" data-icon="octicon-cloud-download" data-size="large" aria-label="Download DmitriiR/NightmareFever on GitHub">Download2</a>
 Hi there ! 
 Below are some projects I have had the pleasure of working on for the last little while. Feel free to download and enjoy. In addition I'm sharing some of my most favorite tricks and systems, feel free to get source. 
 <!-- Place this tag where you want the button to render. -->
@@ -14,16 +12,17 @@ This is a system used in DinoTank for creating and pooling objects, Its a factor
  
 [Vew Repo](https://github.com/DmitriiR/ObjectPool)
  
-<!-- Place this tag where you want the button to render. -->
 <a class="github-button" href="https://github.com/DmitriiR/ObjectPool/archive/master.zip" data-icon="octicon-cloud-download" data-size="large" aria-label="Download DmitriiR/ObjectPool on GitHub">Get Code</a>
 
 ## Event Manager
 This is a neat event system I use for my global events. Classes tell the EventManager to let them know when events occur and run logic.    
 
-[Vew Repo](https://github.com/DmitriiR/MemoryManager)
+[Vew Repo](https://github.com/DmitriiR/EventManager)
 
-<!-- Place this tag where you want the button to render. -->
-<a class="github-button" href="https://github.com/DmitriiR/MemoryManager/archive/master.zip" data-icon="octicon-cloud-download" data-size="large" aria-label="Download DmitriiR/MemoryManager on GitHub">Get Code</a>
+<a class="github-button" href="https://github.com/DmitriiR/EventManager/archive/master.zip" data-icon="octicon-cloud-download" data-size="large" aria-label="Download DmitriiR/EventManager on GitHub">Get Code</a>
+
+
+
 # Projects 
 
 ***
