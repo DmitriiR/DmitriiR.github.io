@@ -26,7 +26,7 @@ Dinosaurs driving tanks, naturally! Dmitrii implemented all the fundamental feat
    aria-label="{{ aria label }}"
    >{{ text }}</a>
 
-
+button rendered 
 
 Unfortunately this project is in development and not available for download.
 
