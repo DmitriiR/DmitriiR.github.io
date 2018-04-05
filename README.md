@@ -12,13 +12,14 @@ This is a system used in DinoTank for creating and pooling objects, Its a factor
  
 [Vew Repo](https://github.com/DmitriiR/ObjectPool)
  
+<!-- Place this tag where you want the button to render. -->
 <a class="github-button" href="https://github.com/DmitriiR/ObjectPool/archive/master.zip" data-icon="octicon-cloud-download" data-size="large" aria-label="Download DmitriiR/ObjectPool on GitHub">Get Code</a>
 
 ## Event Manager
 This is a neat event system I use for my global events. Classes tell the EventManager to let them know when events occur and run logic.    
 
 [Vew Repo](https://github.com/DmitriiR/EventManager)
-
+<!-- Place this tag where you want the button to render. -->
 <a class="github-button" href="https://github.com/DmitriiR/EventManager/archive/master.zip" data-icon="octicon-cloud-download" data-size="large" aria-label="Download DmitriiR/EventManager on GitHub">Get Code</a>
 
 
