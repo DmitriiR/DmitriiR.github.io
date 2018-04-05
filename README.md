@@ -13,6 +13,7 @@ Dinosaurs driving tanks, naturally! Dmitrii implemented all the fundamental feat
 ![useful image]({{ site.url }}/assets/Screen.png)
 
 [I'm an inline-style link](https://www.google.com)
+[I'm an inline-style link](https://github.com/DmitriiR/NightmareFever)
 
 Unfortunately this project is in development and not available for download.
 
