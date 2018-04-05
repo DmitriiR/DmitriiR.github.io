@@ -19,7 +19,7 @@ Dinosaurs driving tanks, naturally! Dmitrii implemented all the fundamental feat
 [I'm an inline-style link](https://github.com/DmitriiR/NightmareFever)
 
 <!-- Place this tag where you want the button to render. -->
-<a class="github-button" href="https://github.com/DmitriiR/NightmareFever/archive/master.zip" data-icon="octicon-cloud-download" data-size="large" aria-label="Download DmitriiR/NightmareFever on GitHub">Download</a>
+<a class="github-button" href="https://github.com/DmitriiR/NightmareFever/archive/master.zip" data-icon="octicon-cloud-download" data-size="large" aria-label="Download1 DmitriiR/NightmareFever on GitHub">Download2</a>
 
 button rendered 
 
