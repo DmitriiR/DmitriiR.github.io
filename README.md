@@ -1,5 +1,4 @@
-﻿<!-- Place this tag in your head or just before your close body tag. -->
-<script async defer src="https://buttons.github.io/buttons.js"></script>
+﻿
 
 Hi there ! 
 Below are some projects I have had the pleasure of working on for the last little while. Feel free to download and enjoy. In addition I'm sharing some of my most favorite tricks and systems, feel free to get source. 
@@ -101,6 +100,8 @@ ASCII classic game Go Fish written in C++ as part of a class project in month 2 
 
 [Download]({{ site.url }}/assets/GoFish.zip).
 
+<!-- Place this tag in your head or just before your close body tag. -->
+<script async defer src="https://buttons.github.io/buttons.js"></script>
 
 # Code 
 ## Object Pool / Factory
