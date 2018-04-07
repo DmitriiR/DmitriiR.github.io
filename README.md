@@ -1,7 +1,7 @@
 ﻿
 
 Hi there ! 
-Below are some projects I have had the pleasure of working on for the last little while. Feel free to download and enjoy. In addition I'm sharing some of my most favorite tricks and systems, feel free to get source. 
+Below are some projects and code I have had the pleasure of working on for the last little while. Feel free to download and enjoy. In addition I'm sharing some of my most favorite tricks and systems, feel free to use them. 
 
 
 <!-- Place this tag where you want the button to render. -->
@@ -18,7 +18,6 @@ Dinosaurs driving tanks, naturally! Dmitrii implemented all the fundamental feat
 ![useful image]({{ site.url }}/assets/mm.png)
 ![useful image]({{ site.url }}/assets/Chooser.PNG)
 ![useful image]({{ site.url }}/assets/Screen.png)
-
 
 ***
 ## Elementum
@@ -44,6 +43,7 @@ Apoptosis is a networked Real Time Strategy (“RTS”) that takes place in the 
 ![useful image]({{ site.url }}/assets/Apoptossis.png)
 
 [Download]({{ site.url }}/assets/Apoptosis_Installer.zip).
+
 
 
 ***
@@ -83,6 +83,13 @@ ASCII - based scrolling shooter “Bullet Hell” that won Dmitrii the prestigio
 [Download solition]({{ site.url }}/assets/EscapeFromPlutopSLN.zip).
 
 ***
+## Bowling
+
+A fun sunday spent writing this Android bawling game.
+![useful image]({{ site.url }}/assets/Bowling.png)
+ 
+
+***
 ## Rak Tool 
 
 As an independent project, Dmitrii created an asset manipulation tool that greatly enriched and expanded the functionality of the Burnout Studios RAK Asset Pack is currently available on the Unity Store. 
@@ -116,6 +123,7 @@ This is a system used in DinoTank for creating and pooling objects, Its a factor
 This is a neat event system I use for my global events. Classes tell the EventManager to let them know when events occur and run logic.    
 
 [Vew Repo](https://github.com/DmitriiR/EventManager)
+
 <!-- Place this tag where you want the button to render. -->
 <a class="github-button" href="https://github.com/DmitriiR/EventManager/archive/master.zip" data-icon="octicon-cloud-download" data-size="large" aria-label="Download DmitriiR/EventManager on GitHub">Get Code</a>
 
