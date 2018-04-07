@@ -90,9 +90,11 @@ A fun sunday spent writing this Android bawling game.
  
 ***
 ## Editor Tools
-As part of projects I work on writing tools editor extensions, not to mention the improvement in workflow. There is something about a great interface.
 
-![useful image]({{ site.url }}/assets/TankController.PNG)
+I write editor tools for more envolved scripts, the idea is making easy to use/accesable interfaces for your scrip
+As part of projects I write tools for the editor, along with it being a sheer pleasure.   editor extensions, not to mention the improvement in workflow. There is something about a great interface.
+
+![useful image]({{ site.url }}/assets/Tools.png)
   
 
  
