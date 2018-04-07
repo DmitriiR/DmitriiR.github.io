@@ -91,8 +91,7 @@ A fun sunday spent writing this Android bawling game.
 ***
 ## Editor Tools
 
-I write editor tools for more envolved scripts, the idea is making easy to use/accesable interfaces for your scrip
-As part of projects I write tools for the editor, along with it being a sheer pleasure.   editor extensions, not to mention the improvement in workflow. There is something about a great interface.
+Some Editor tools I make, I do this for management systems and other involved scrips. Not only are custom inspectors fun to write, they streamline workflow and make it easy for designers job easier. 
 
 ![useful image]({{ site.url }}/assets/Tools.png)
   
