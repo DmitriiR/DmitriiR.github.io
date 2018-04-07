@@ -91,7 +91,7 @@ A fun sunday spent writing this Android bawling game.
 ***
 ## Editor Tools
 
-Some Editor tools I make, I do this for management systems and other involved scrips. Not only are custom inspectors fun to write, they streamline workflow and make it easy for designers job easier. 
+Some Editor tools I make, I do this for management systems and other involved scrips. Not only are custom inspectors fun to write, they streamline workflow and make it easy for designers to focus on creating. 
 
 ![useful image]({{ site.url }}/assets/Tools.png)
   
