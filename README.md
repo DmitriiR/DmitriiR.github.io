@@ -127,7 +127,7 @@ This is a system used in DinoTank for creating and pooling objects, Its a factor
 [Vew Code](https://github.com/DmitriiR/ObjectPool)
  
 <!-- Place this tag where you want the button to render. -->
-<a class="github-button" href="https://github.com/DmitriiR/ObjectPool/archive/master.zip" data-icon="octicon-cloud-download" data-size="large" aria-label="Download DmitriiR/ObjectPool on GitHub">Get Code</a>
+<a class="github-button" href="https://github.com/DmitriiR/ObjectPool/archive/master.zip" data-icon="octicon-cloud-download" data-size="large" aria-label="Download DmitriiR/ObjectPool on GitHub">Get Source</a>
 
 ## Event Manager
 This is a neat event system I use for my global events. Classes tell the EventManager to let them know when events occur and run logic.    
@@ -135,7 +135,7 @@ This is a neat event system I use for my global events. Classes tell the EventMa
 [Vew Code](https://github.com/DmitriiR/EventManager)
 
 <!-- Place this tag where you want the button to render. -->
-<a class="github-button" href="https://github.com/DmitriiR/EventManager/archive/master.zip" data-icon="octicon-cloud-download" data-size="large" aria-label="Download DmitriiR/EventManager on GitHub">Get Code</a>
+<a class="github-button" href="https://github.com/DmitriiR/EventManager/archive/master.zip" data-icon="octicon-cloud-download" data-size="large" aria-label="Download DmitriiR/EventManager on GitHub">Get Source</a>
 
 ## Ballistics Computation 
 This system is used for computing launch velocity vector if you wish for a projectile to hit a certain location. I found that after writing this system, players enjoyed the act of firing a lot more and targeting became easier. Also includes a few variations, I use highest arc for things like mortars and mostDirect for the tanks.
@@ -143,7 +143,7 @@ This system is used for computing launch velocity vector if you wish for a proje
 [Vew Code](https://github.com/DmitriiR/BallisticsComputer)
 
 <!-- Place this tag where you want the button to render. -->
-<a class="github-button" href="https://github.com/DmitriiR/BallisticsComputer/archive/master.zip" data-icon="octicon-cloud-download" data-size="large" aria-label="Download DmitriiR/BallisticsComputer on GitHub">Download</a>
+<a class="github-button" href="https://github.com/DmitriiR/BallisticsComputer/archive/master.zip" data-icon="octicon-cloud-download" data-size="large" aria-label="Download DmitriiR/BallisticsComputer on GitHub">Get Source</a>
 
 
 
