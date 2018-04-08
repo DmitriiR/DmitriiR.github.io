@@ -12,9 +12,6 @@ Feel free to download and enjoy.
 
 
 # Projects 
- __   __   __        ___  __  ___  __  
-|__) |__) /  \    | |__  /  `  |  /__` 
-|    |  \ \__/ \__/ |___ \__,  |  .__/ 
 ***
 ## DinoTank
 
@@ -125,9 +122,6 @@ ASCII classic game Go Fish written in C++ as part of a class project in month 2 
 <script async defer src="https://buttons.github.io/buttons.js"></script>
 
 # Code
- __   __   __   ___ 
-/  ` /  \ |  \ |__  
-\__, \__/ |__/ |___ 
 
 ## Object Pool / Factory
 This is a system used in DinoTank for creating and pooling objects, Its a factory method and an object pool combined.
