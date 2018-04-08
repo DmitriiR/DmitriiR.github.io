@@ -2,7 +2,9 @@
 
 Hi there !
 
-Thanks for visiting. Here are some projects I worked on, followed by neat systems/code I wrote and use. Feel free to download and enjoy.
+Thanks for visiting. Here are some projects I worked on, followed by neat systems/code I wrote and use. 
+
+Feel free to download and enjoy.
 
 
 <!-- Place this tag where you want the button to render. -->
@@ -10,7 +12,9 @@ Thanks for visiting. Here are some projects I worked on, followed by neat system
 
 
 # Projects 
-
+ __   __   __        ___  __  ___  __  
+|__) |__) /  \    | |__  /  `  |  /__` 
+|    |  \ \__/ \__/ |___ \__,  |  .__/ 
 ***
 ## DinoTank
 
@@ -120,7 +124,11 @@ ASCII classic game Go Fish written in C++ as part of a class project in month 2 
 <!-- Place this tag in your head or just before your close body tag. -->
 <script async defer src="https://buttons.github.io/buttons.js"></script>
 
-# Code 
+# Code
+ __   __   __   ___ 
+/  ` /  \ |  \ |__  
+\__, \__/ |__/ |___ 
+
 ## Object Pool / Factory
 This is a system used in DinoTank for creating and pooling objects, Its a factory method and an object pool combined.
  
