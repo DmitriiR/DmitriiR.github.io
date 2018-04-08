@@ -1,7 +1,8 @@
 ﻿
 
-Hi there ! 
-Below are some projects and code I have had the pleasure of working on for the last little while. Feel free to download and enjoy. In addition I'm sharing some of my most favorite tricks and systems, feel free to use them. 
+Hi there !
+
+Below are some projects and code I have had the pleasure of working on for the last little while. Feel free to download and enjoy. In addition I'm sharing some of my most favorite tricks and systems (bottom of the page), feel free to check those out. 
 
 
 <!-- Place this tag where you want the button to render. -->
