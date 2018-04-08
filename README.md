@@ -13,7 +13,8 @@ Below are some projects and code I have had the pleasure of working on for the l
 ***
 ## DinoTank
 
-Dinosaurs driving tanks, naturally! Dmitrii implemented all the fundamental features and framework for this Android mobile game and took a lead role in its development and release. DinoTank features dynamic combat, single player campaign, multiplayer combat, advanced physics, monetization/upgrade system and currency. Apart the core of game, Dmitrii also implemented advanced features such as realistic tank physics, projectile ballistics computations, damage modeling, advanced AI, object pooling, latency compensation, state storage system, mesh welding, all UI + scenes and transisions, post processing and shaders, and other systems. 
+Dinosaurs driving tanks, naturally! I implemented the fundamental features and framework for this Android mobile game and took a lead role in its development and future release. DinoTank features dynamic combat, single player campaign, multiplayer combat, advanced physics, monetization/upgrade system and currency. Apart the core of game, I also implemented advanced features such as realistic tank physics, projectile ballistics computations, damage modeling, advanced AI, object pooling, latency compensation, state storage system, mesh welding, all UI + scenes and transisions, post processing and shaders, and other systems.
+The target demographic (8-4) love it.  
 
 ![useful image]({{ site.url }}/assets/mm.png)
 ![useful image]({{ site.url }}/assets/Chooser.PNG)
@@ -31,7 +32,7 @@ Some Editor tools I make, I do this for management systems and other involved sc
 ***
 ## Elementum
 
-Elementum is an action RPG game written in C++ within the Unreal Engine framework. As part of a Development team, Dmitrii designed and implemented game features with the specific focus on AI Behavior, Animation Systems, Effects, Gameplay and the complete experience of the game finale. 
+Elementum is an action RPG game written in C++ within the Unreal Engine framework. As part of a Development team, I designed and implemented game features with the specific focus on AI Behavior, Animation Systems, Effects, Gameplay and the complete experience of the game finale. 
 
 ![useful image]({{ site.url }}/assets/ElementumGameplay.png)
 
@@ -44,7 +45,7 @@ You can download the game here [Part1]({{ site.url }}/assets/Elementum.part1.rar
 ***
 ## Apoptosis
 
-Apoptosis is a networked Real Time Strategy (“RTS”) that takes place in the world of the microscopic. Taking the project lead role, Dmitrii created and deployed the complete user interface and developed the game’s styling UI, Design, Levels, Art, Gameplay, Programming and drove the marketing and promotion effort. As a result of Dmitrii’s efforts, the game attracted pleasing interest at the Independent Game Developer Exhibition in Orlando FL in 2016. 
+Apoptosis is a networked Real Time Strategy (“RTS”) that takes place in the world of the microscopic. Taking the project lead role, I created and deployed the complete user interface and developed the game’s styling UI, Design, Levels, Art, Gameplay, Programming and drove the marketing and promotion effort. As a result of my efforts, the game attracted pleasing interest at the Independent Game Developer Exhibition in Orlando FL in 2016. 
 
 ![useful image]({{ site.url }}/assets/ApopotosisMM.png)
 ![useful image]({{ site.url }}/assets/ApopotosisMM.png)
@@ -56,7 +57,7 @@ Apoptosis is a networked Real Time Strategy (“RTS”) that takes place in the 
 ***
 ## Tektonik
 
-Tektonik is multiplayer action arcade where players combat each other with powerful weapons in a confined destructible environment. From creating the game concept to final implementation, Dmitrii was central to what was recognized as “One of the most fun games to come through final project”. Prototyped in C# within Unity and developed in C++ within Unreal, Dmitri took the lead project role and was focused on the game design, core system implementation, networking implementation, UI design & implementation/creation, user experience flow, artwork and complete documentation. With further development, the game could easily be developed into a viable commercial product.
+Tektonik is multiplayer action arcade where players combat each other with powerful weapons in a confined destructible environment. From creating the game concept to final implementation, I was central to what was recognized as “One of the most fun games to come through final project”. Prototyped in C# within Unity and developed in C++ within Unreal, I took the lead project role and was focused on the game design, core system implementation, networking implementation, UI design & implementation/creation, user experience flow, artwork and complete documentation. With further development, the game could easily be developed into a viable commercial product.
 
 ![useful image]({{ site.url }}/assets/EditorSplashFinal.bmp)
 ![useful image]({{ site.url }}/assets/tektonik1.png)
@@ -82,7 +83,7 @@ A personal project game written in Unity C#. An endless runner, where the player
 ***
 ## Escape From Pluto
 
-ASCII - based scrolling shooter “Bullet Hell” that won Dmitrii the prestigious course director award and is still used by the instructor as an example of what this course demands from students.
+ASCII - based scrolling shooter “Bullet Hell” that won me the prestigious course director award and is still used by the instructor as an example of what this course demands from students.
 
 ![useful image]({{ site.url }}/assets/EscapeFromPluto.png)
 [Download .exe]({{ site.url }}/assets/Escape From Pluto.zip).
@@ -100,7 +101,7 @@ A fun sunday spent writing this Android bawling game.
 ***
 ## Rak Tool 
 
-As an independent project, Dmitrii created an asset manipulation tool that greatly enriched and expanded the functionality of the Burnout Studios RAK Asset Pack is currently available on the Unity Store. 
+As an independent project, I created an asset manipulation tool that greatly enriched and expanded the functionality of the Burnout Studios RAK Asset Pack is currently available on the Unity Store. 
 
 ![useful image]({{ site.url }}/assets/RAKTool.png)
 
