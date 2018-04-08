@@ -20,6 +20,15 @@ Dinosaurs driving tanks, naturally! Dmitrii implemented all the fundamental feat
 ![useful image]({{ site.url }}/assets/Screen.png)
 
 ***
+## Editor Tools
+
+Some Editor tools I make, I do this for management systems and other involved scrips. Not only are custom inspectors fun to write, they streamline workflow and make it easy for designers to focus on creating. 
+
+![useful image]({{ site.url }}/assets/Tools.png)
+  
+
+
+***
 ## Elementum
 
 Elementum is an action RPG game written in C++ within the Unreal Engine framework. As part of a Development team, Dmitrii designed and implemented game features with the specific focus on AI Behavior, Animation Systems, Effects, Gameplay and the complete experience of the game finale. 
@@ -43,8 +52,6 @@ Apoptosis is a networked Real Time Strategy (“RTS”) that takes place in the 
 ![useful image]({{ site.url }}/assets/Apoptossis.png)
 
 [Download]({{ site.url }}/assets/Apoptosis_Installer.zip).
-
-
 
 ***
 ## Tektonik
@@ -88,13 +95,6 @@ ASCII - based scrolling shooter “Bullet Hell” that won Dmitrii the prestigio
 A fun sunday spent writing this Android bawling game.
 ![useful image]({{ site.url }}/assets/Bowling.png)
  
-***
-## Editor Tools
-
-Some Editor tools I make, I do this for management systems and other involved scrips. Not only are custom inspectors fun to write, they streamline workflow and make it easy for designers to focus on creating. 
-
-![useful image]({{ site.url }}/assets/Tools.png)
-  
 
  
 ***
