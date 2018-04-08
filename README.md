@@ -2,7 +2,7 @@
 
 Hi there !
 
-At first there are some projects I worked on, followed by ready code/systems I have had the pleasure of writing. Feel free to download and enjoy.
+Thanks for visiting. Here are some projects I worked on, followed by neat systems/code I wrote and use. Feel free to download and enjoy.
 
 
 <!-- Place this tag where you want the button to render. -->
