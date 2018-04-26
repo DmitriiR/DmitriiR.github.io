@@ -50,7 +50,6 @@ You can download the game here [Part1]({{ site.url }}/assets/Elementum.part1.rar
 Apoptosis is a networked Real Time Strategy (“RTS”) that takes place in the world of the microscopic. Taking the project lead role, I created and deployed the complete user interface and developed the game’s styling UI, Design, Levels, Art, Gameplay, Programming and drove the marketing and promotion effort. As a result of my efforts, the game attracted pleasing interest at the Independent Game Developer Exhibition in Orlando FL in 2016. 
 
 ![useful image]({{ site.url }}/assets/ApopotosisMM.png)
-![useful image]({{ site.url }}/assets/ApopotosisMM.png)
 
 ![useful image]({{ site.url }}/assets/Apoptossis.png)
 
