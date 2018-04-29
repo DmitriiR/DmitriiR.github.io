@@ -149,6 +149,19 @@ This system is used for computing launch velocity vector if you wish for a proje
 
 # GDDs
 
+Below are some Game Design Documents (GDDs) I have created for game concepts.
+
+## Angel of the Deep
+![useful image]({{ site.url }}/assets/GDDs/AngelCapture.PNG)
+
+Angel of the Deep is an action arcade that lets you experience life through the large eyes of a deep ocean predator. Explore the eternal dark of the deep ocean, become fitter and dare to venture up to the light or grow your own.
+
+[Download]({{ site.url }}/assets/GDDs/DesignOne.pdf).
+
+
+
+ 
+
 # References 
 
 Just to add that Dmitrii Roets worked for me with my game company Zygobot as an intern both during his time at Full Sail and as a post grad intern.  He is a very talented engineer who can see and execute towards the big picture.  He thrives in uncertainty and is not afraid to take chances to push development into exciting new areas.  He demonstrates leadership skills regularly and is one of the most intrinsically motivated people I have ever had the chance to work with.  I can not recommend Dmitrii enough and know that he has the ability and drive to do amazing things in his future.  He is a pleasure to work with and any company smart enough to have him on board will definitely benefit.
