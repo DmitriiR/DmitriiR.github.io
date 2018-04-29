@@ -147,6 +147,12 @@ This system is used for computing launch velocity vector if you wish for a proje
 <!-- Place this tag where you want the button to render. -->
 <a class="github-button" href="https://github.com/DmitriiR/BallisticsComputer/archive/master.zip" data-icon="octicon-cloud-download" data-size="large" aria-label="Download DmitriiR/BallisticsComputer on GitHub">Get Source</a>
 
+# GDDs
 
+# References 
 
+Just to add that Dmitrii Roets worked for me with my game company Zygobot as an intern both during his time at Full Sail and as a post grad intern.  He is a very talented engineer who can see and execute towards the big picture.  He thrives in uncertainty and is not afraid to take chances to push development into exciting new areas.  He demonstrates leadership skills regularly and is one of the most intrinsically motivated people I have ever had the chance to work with.  I can not recommend Dmitrii enough and know that he has the ability and drive to do amazing things in his future.  He is a pleasure to work with and any company smart enough to have him on board will definitely benefit.
+
+- Roy Papp, Owner Zygobot Studios, rpapp@fullsail.com
+	
 
