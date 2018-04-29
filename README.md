@@ -156,11 +156,14 @@ Below are some Game Design Documents (GDDs) I have created for game concepts.
 
 Angel of the Deep is an action arcade that lets you experience life through the large eyes of a deep ocean predator. Explore the eternal dark of the deep ocean, become fitter and dare to venture up to the light or grow your own.
 
-[Download]({{ site.url }}/assets/GDDs/DesignOne.pdf).
+[View]({{ site.url }}/assets/GDDs/DesignOne.pdf).
 
+## Race for Real 
+![useful image]({{ site.url }}/assets/GDDs/RaceCapture.PNG)
 
+Race for real  is an action racer that takes place in google earth. Four players compete for glory or simply to make it to the finish line. Spend hard won prizes on better cars and guns to become the ultimate champion.
 
- 
+[View]({{ site.url }}/assets/GDDs/DesignTwo.pdf). 
 
 # References 
 
