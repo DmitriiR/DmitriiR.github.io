@@ -153,17 +153,18 @@ Below are some Game Design Documents (GDDs) I have created for game concepts.
 
 ## Angel of the Deep
 ![useful image]({{ site.url }}/assets/GDDs/AngelCapture.PNG)
-
 Angel of the Deep is an action arcade that lets you experience life through the large eyes of a deep ocean predator. Explore the eternal dark of the deep ocean, become fitter and dare to venture up to the light or grow your own.
-
 [View]({{ site.url }}/assets/GDDs/DesignOne.pdf).
 
 ## Race for Real 
 ![useful image]({{ site.url }}/assets/GDDs/RaceCapture.PNG)
-
 Race for real  is an action racer that takes place in google earth. Four players compete for glory or simply to make it to the finish line. Spend hard won prizes on better cars and guns to become the ultimate champion.
-
 [View]({{ site.url }}/assets/GDDs/DesignTwo.pdf). 
+
+## Save Fukushima 
+![useful image]({{ site.url }}/assets/GDDs/FukCapture.PNG)
+Save Fukushima is an “educational” game that tells the story of the technogenic catastrophe that took place in 2011 (and still is) at the ill fated Fukushima Daiichi (Japan) nuclear power plant through a series of mini games. Following the chain of events, the players first tackle cooling the reactors by connecting the correct pipes in order and on time. Thereafter the players attempt to seal the reactors. Lastly the players deal with the long term procedure of decommissioning the plant by removing and securing the spent fuel rods. 
+[View]({{ site.url }}/assets/GDDs/DesignThree.pdf). 
 
 # References 
 
