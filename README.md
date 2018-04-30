@@ -121,6 +121,10 @@ ASCII classic game Go Fish written in C++ as part of a class project in month 2 
 <!-- Place this tag in your head or just before your close body tag. -->
 <script async defer src="https://buttons.github.io/buttons.js"></script>
 
+
+
+
+
 # Code
 
 ## Object Pool / Factory
@@ -147,6 +151,10 @@ This system is used for computing launch velocity vector if you wish for a proje
 <!-- Place this tag where you want the button to render. -->
 <a class="github-button" href="https://github.com/DmitriiR/BallisticsComputer/archive/master.zip" data-icon="octicon-cloud-download" data-size="large" aria-label="Download DmitriiR/BallisticsComputer on GitHub">Get Source</a>
 
+
+
+
+
 # GDDs
 
 Below are some Game Design Documents (GDDs) I have created for game concepts.
@@ -165,6 +173,11 @@ Race for real  is an action racer that takes place in google earth. Four players
 ![useful image]({{ site.url }}/assets/GDDs/FukCapture.PNG)
 Save Fukushima is an “educational” game that tells the story of the technogenic catastrophe that took place in 2011 (and still is) at the ill fated Fukushima Daiichi (Japan) nuclear power plant through a series of mini games. Following the chain of events, the players first tackle cooling the reactors by connecting the correct pipes in order and on time. Thereafter the players attempt to seal the reactors. Lastly the players deal with the long term procedure of decommissioning the plant by removing and securing the spent fuel rods. 
 [View]({{ site.url }}/assets/GDDs/DesignThree.pdf). 
+
+
+
+
+
 
 # References 
 
