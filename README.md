@@ -170,7 +170,7 @@ Race for real  is an action racer that takes place in google earth. Four players
 [View]({{ site.url }}/assets/GDDs/DesignTwo.pdf). 
 
 ## Save Fukushima 
-![useful image]({{ site.url }}/assets/GDDs/FukCapture.PNG)
+![useful image]({{ site.url }}/assets/GDDs/FukCombined-01.png)
 Save Fukushima is an “educational” game that tells the story of the technogenic catastrophe that took place in 2011 (and still is) at the ill fated Fukushima Daiichi (Japan) nuclear power plant through a series of mini games. Following the chain of events, the players first tackle cooling the reactors by connecting the correct pipes in order and on time. Thereafter the players attempt to seal the reactors. Lastly the players deal with the long term procedure of decommissioning the plant by removing and securing the spent fuel rods. 
 [View]({{ site.url }}/assets/GDDs/DesignThree.pdf). 
 
