@@ -165,7 +165,7 @@ Angel of the Deep is an action arcade that lets you experience life through the 
 [View]({{ site.url }}/assets/GDDs/DesignOne.pdf).
 
 ## Race for Real 
-![useful image]({{ site.url }}/assets/GDDs/RaceCombined-01.png)
+![useful image]({{ site.url }}/assets/GDDs/RaceCombined3-01.png)
 Race for real  is an action racer that takes place in google earth. Four players compete for glory or simply to make it to the finish line. Spend hard won prizes on better cars and guns to become the ultimate champion.
 [View]({{ site.url }}/assets/GDDs/DesignTwo.pdf). 
 
