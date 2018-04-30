@@ -131,7 +131,9 @@ ASCII classic game Go Fish written in C++ as part of a class project in month 2 
 This is a system used in DinoTank for creating and pooling objects. It is a factory method and an object pooler combined.
 ![useful image]({{ site.url }}/assets/ObjectPoolCapture.PNG)
 [Video](https://youtu.be/XN27JZggyU0)
+
 [Vew Code](https://github.com/DmitriiR/ObjectPool)
+
 <!-- Place this tag where you want the button to render. -->
 <a class="github-button" href="https://github.com/DmitriiR/ObjectPool/archive/master.zip" data-icon="octicon-cloud-download" data-size="large" aria-label="Download DmitriiR/ObjectPool on GitHub">Get Source</a>
 
