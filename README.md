@@ -60,8 +60,7 @@ Apoptosis is a networked Real Time Strategy (“RTS”) that takes place in the 
 
 Tektonik is multiplayer action arcade written in Unreal Engine where players combat each other with powerful weapons in a confined destructible environment. From creating the game concept to final implementation, I was central to what was recognized as “One of the most fun games to come through final project” by the cource directors and my peers at Full Sail University. Prototyped in C# within Unity and developed in C++ within Unreal, I took the lead project role and focused on game design, core system implementation, networking implementation, UI design & implementation/creation, user experience flow, artwork and complete documentation. With further development, the game could easily be developed into a viable commercial product.
 
-![useful image]({{ site.url }}/assets/EditorSplashFinal.bmp)
-![useful image]({{ site.url }}/assets/tektonik1.png)
+![useful image]({{ site.url }}/assets/TektonikCombined-01.png)
 
 ***
 ## Block Match
