@@ -157,7 +157,7 @@ This system is used for computing launch velocity vector if you wish for a proje
 
 # GDDs
 
-Below are some Game Design Documents (GDDs) I have created for game concepts.
+Below are some Game Design Documents (GDDs) I have created for game concepts. Backlog perhaps?
 
 ## Angel of the Deep
 ![useful image]({{ site.url }}/assets/GDDs/AngelCombined-01.png)
