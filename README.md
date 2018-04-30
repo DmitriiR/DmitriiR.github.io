@@ -160,7 +160,7 @@ This system is used for computing launch velocity vector if you wish for a proje
 Below are some Game Design Documents (GDDs) I have created for game concepts.
 
 ## Angel of the Deep
-![useful image]({{ site.url }}/assets/GDDs/AngelCapture.PNG)
+![useful image]({{ site.url }}/assets/GDDs/AngelCombined-01.png)
 Angel of the Deep is an action arcade that lets you experience life through the large eyes of a deep ocean predator. Explore the eternal dark of the deep ocean, become fitter and dare to venture up to the light or grow your own.
 [View]({{ site.url }}/assets/GDDs/DesignOne.pdf).
 
