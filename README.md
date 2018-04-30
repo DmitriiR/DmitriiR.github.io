@@ -96,6 +96,7 @@ ASCII - based scrolling shooter “Bullet Hell” that won me the prestigious co
 
 A fun Sunday spent writing this Android bwling game.
 ![useful image]({{ site.url }}/assets/Bowling.png)
+
  [Video](https://www.youtube.com/watch?v=pLHXbX7MZUI)
 
  
@@ -130,9 +131,10 @@ ASCII classic game Go Fish written in C++ as part of a class project in month 2 
 This is a system used in DinoTank for creating and pooling objects. It is a factory method and an object pooler combined.
  
 [Vew Code](https://github.com/DmitriiR/ObjectPool)
- 
+
 <!-- Place this tag where you want the button to render. -->
 <a class="github-button" href="https://github.com/DmitriiR/ObjectPool/archive/master.zip" data-icon="octicon-cloud-download" data-size="large" aria-label="Download DmitriiR/ObjectPool on GitHub">Get Source</a>
+[Video](https://youtu.be/XN27JZggyU0)
 
 ## Event Manager
 This is a neat event system I use for my global events. Classes tell the EventManager to let them know when events occur and run logic.    
