@@ -95,10 +95,7 @@ ASCII - based scrolling shooter “Bullet Hell” that won me the prestigious co
 ## Bowling
 
 A fun Sunday spent writing this Android bwling game.
-![useful image]({{ site.url }}/assets/Bowling.png)
-
- [Video](https://www.youtube.com/watch?v=pLHXbX7MZUI)
-
+[<img src="{{ site.url }}/assets/BawCapture-01.png">](https://www.youtube.com/watch?v=pLHXbX7MZUI)
  
 ***
 ## Rak Tool 
