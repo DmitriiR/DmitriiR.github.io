@@ -13,6 +13,12 @@ Feel free to download and enjoy.
 
 # Projects 
 ***
+## Alpha Squad 5 
+
+Due to release soon, Alpha Squad 5 is the first game I am proud to be working on at  MunkyFun. This is a mobile game where the user takes control of an elite squad of the finest.
+Media and store links coming soon.
+
+***
 ## DinoTank
 
 Dinosaurs driving tanks, naturally! I implemented the fundamental features and framework for this Android mobile game and took a lead role in it's development and future release. DinoTank features dynamic combat, single player campaign, multiplayer combat, advanced physics, monetization/upgrade system and currency. Apart from the core of the game, I also implemented advanced features such as realistic tank physics, projectile ballistics computations, damage modeling, advanced AI, object pooling, latency compensation, state storage system, mesh welding, all UI + scenes and transisions, post processing and shaders, and other systems. 
