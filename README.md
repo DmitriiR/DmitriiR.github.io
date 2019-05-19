@@ -12,15 +12,24 @@ Feel free to download and enjoy.
 
 
 # Projects 
+
+
+***
+## Genies - 3D Clones
+![useful image]({{ site.url }}/assets/GeniesBanner.jpg)
+[<img src="{{ site.url }}/assets/downloadAppstore.png">](https://itunes.apple.com/us/app/genies-3d-clones/id606291833?mt=8&fbclid=IwAR2Exy6OL_E5BnH-ARsfuTVVIBMloLk5RIZT8S1stGzYXOhF5wtw54JPCig)
+
+Genies are the best looking and most intelligent human clones in the world. With over a million clothing and facial options provided, you can create a Genie clone to mirror your exact human self.
+I am mostly invlolved with the fluid visual system and UI systems driving the application. As well as animation systems, animations, database and dabase security, optimization and any other elements needed. 
+
 ***
 ## Alpha Squad 5 
 ![useful image]({{ site.url }}/assets/AlphaSquadBanner.jpg)
 [<img src="{{ site.url }}/assets/downloadAppstore.png">](https://itunes.apple.com/app/id1404078045?fbclid=IwAR1qRfPpUa_5V9sKl53jmKnJp35sTShMZnNri3VItKiuhO8hKQpNHLWhqrk)
 [<img src="{{ site.url }}/assets/downloadGooglePlay.png">](https://play.google.com/store/apps/details?id=com.kongregate.mobile.cobra.google)
 
-
-Due to release soon, Alpha Squad 5 is the first game I am proud to be working on at  MunkyFun. This is a mobile game where the user takes control of an elite squad of the finest.
-Media and store links coming soon.
+Alpha Squad 5 is the first game I am proud to be working on at  MunkyFun. This is a mobile game where the user takes control of an elite squad of the finest.
+Media and store links coming soon. I have been involved the the development of UI and UI systems, server-client code and many other aspects of the game.
 
 ***
 ## DinoTank
