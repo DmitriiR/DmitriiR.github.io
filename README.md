@@ -14,6 +14,7 @@ Feel free to download and enjoy.
 # Projects 
 ***
 ## Alpha Squad 5 
+![useful image]({{ site.url }}/assets/AlphaSquadBanner.png)
 
 Due to release soon, Alpha Squad 5 is the first game I am proud to be working on at  MunkyFun. This is a mobile game where the user takes control of an elite squad of the finest.
 Media and store links coming soon.
