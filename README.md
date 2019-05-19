@@ -14,7 +14,10 @@ Feel free to download and enjoy.
 # Projects 
 ***
 ## Alpha Squad 5 
-![useful image]({{ site.url }}/assets/AlphaSquadBanner.png)
+![useful image]({{ site.url }}/assets/AlphaSquadBanner.jpg)
+[<img src="{{ site.url }}/assets/downloadAppstore.png">](https://itunes.apple.com/app/id1404078045?fbclid=IwAR1qRfPpUa_5V9sKl53jmKnJp35sTShMZnNri3VItKiuhO8hKQpNHLWhqrk)
+[<img src="{{ site.url }}/assets/downloadGooglePlay.png">](https://play.google.com/store/apps/details?id=com.kongregate.mobile.cobra.google)
+
 
 Due to release soon, Alpha Squad 5 is the first game I am proud to be working on at  MunkyFun. This is a mobile game where the user takes control of an elite squad of the finest.
 Media and store links coming soon.
