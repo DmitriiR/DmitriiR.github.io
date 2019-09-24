@@ -21,6 +21,7 @@ For League of War: Mercenaries I have worked on monitization system implementati
 
 [<img src="{{ site.url }}/assets/downloadAppstore.png">](https://apps.apple.com/app/id993290127)
 [<img src="{{ site.url }}/assets/downloadGooglePlay.png">](https://play.google.com/store/apps/details?id=com.gree.shadow&hl=en_US)
+
 ***
 ## Genies - 3D Clones
 ![useful image]({{ site.url }}/assets/GeniesBanner.jpg)
