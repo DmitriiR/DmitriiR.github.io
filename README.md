@@ -15,7 +15,7 @@ Feel free to download and enjoy.
 ***
 ## League of War: Mercenaries
 
-![useful image]({{ site.url }}/assets/LowM_banner.jpg)
+![useful image]({{ site.url }}/assets/LowM_banner.png)
 
 For League of War: Mercenaries I have worked on monitization system implementation, material loaders and other UI.
 
