@@ -1,23 +1,31 @@
 ﻿
 
-Hi there!
+Hello!
 
 Thanks for visiting. Here are some projects I have worked on, followed by neat systems/code I have written and use. 
 
 Feel free to download and enjoy.
 
 
-<!-- Place this tag where you want the button to render. -->
+<!-- comment. -->
 <a class="github-button" href="https://github.com/DmitriiR" data-size="large" aria-label="Follow @DmitriiR on GitHub">Follow @DmitriiR</a>
 
 
-# Projects 
+# Projects mercenaries
+***
+## League of War: Mercenaries
 
+![useful image]({{ site.url }}/assets/LowM_banner.jpg)
 
+For League of War: Mercenaries I have worked on monitization system implementation, material loaders and other UI.
+
+[<img src="{{ site.url }}/assets/downloadAppstore.png">](https://apps.apple.com/app/id993290127)
+[<img src="{{ site.url }}/assets/downloadGooglePlay.png">](https://play.google.com/store/apps/details?id=com.gree.shadow&hl=en_US)
 ***
 ## Genies - 3D Clones
 ![useful image]({{ site.url }}/assets/GeniesBanner.jpg)
 [<img src="{{ site.url }}/assets/downloadAppstore.png">](https://itunes.apple.com/us/app/genies-3d-clones/id606291833?mt=8&fbclid=IwAR2Exy6OL_E5BnH-ARsfuTVVIBMloLk5RIZT8S1stGzYXOhF5wtw54JPCig)
+[<img src="{{ site.url }}/assets/downloadGooglePlay.png">](https://play.google.com/store/apps/details?id=la.blend.android&hl=en_US)
 
 Genies are the best looking and most intelligent human clones in the world. With over a million clothing and facial options provided, you can create a Genie clone to mirror your exact human self.
 I am mostly invlolved with the fluid visual system and UI systems driving the application. As well as animation systems, animations, database and dabase security, optimization and any other elements needed. 
