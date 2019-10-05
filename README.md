@@ -11,8 +11,10 @@ Feel free to download and enjoy.
 <a class="github-button" href="https://github.com/DmitriiR" data-size="large" aria-label="Follow @DmitriiR on GitHub">Follow @DmitriiR</a>
 
 
-# Projects mercenaries
+# Projects
+
 ***
+
 ## League of War: Mercenaries
 
 ![useful image]({{ site.url }}/assets/LowM_banner.png)
@@ -23,6 +25,7 @@ For League of War: Mercenaries I have worked on monitization system implementati
 [<img src="{{ site.url }}/assets/downloadGooglePlay.png">](https://play.google.com/store/apps/details?id=com.gree.shadow&hl=en_US)
 
 ***
+
 ## Genies - 3D Clones
 ![useful image]({{ site.url }}/assets/GeniesBanner.jpg)
 
@@ -74,7 +77,6 @@ You can download the game here [Part1]({{ site.url }}/assets/Elementum.part1.rar
 [Part2]({{ site.url }}/assets/Elementum.part2.rar).
 [Part3]({{ site.url }}/assets/Elementum.part3.rar).
 [Part4]({{ site.url }}/assets/Elementum.part4.rar). Download all and extract from Part1.
-
 
 ***
 
