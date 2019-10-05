@@ -21,8 +21,7 @@ Feel free to download and enjoy.
 
 For League of War: Mercenaries I have worked on monitization system implementation, material loaders and other UI.
 
-[<img src="{{ site.url }}/assets/downloadAppstore.png">](https://apps.apple.com/app/id993290127)
-[<img src="{{ site.url }}/assets/downloadGooglePlay.png">](https://play.google.com/store/apps/details?id=com.gree.shadow&hl=en_US)
+[<img src="{{ site.url }}/assets/downloadAppstore.png">](https://apps.apple.com/app/id993290127)[<img src="{{ site.url }}/assets/downloadGooglePlay.png">](https://play.google.com/store/apps/details?id=com.gree.shadow&hl=en_US)
 
 ***
 
@@ -32,8 +31,7 @@ For League of War: Mercenaries I have worked on monitization system implementati
 Genies are the best looking and most intelligent human clones in the world. With over a million clothing and facial options provided, you can create a Genie clone to mirror your exact human self.
 I am mostly invlolved with the fluid visual system and UI systems driving the application. As well as animation systems, animations, database and dabase security, optimization and any other elements needed. 
 
-[<img src="{{ site.url }}/assets/downloadAppstore.png">](https://itunes.apple.com/us/app/genies-3d-clones/id606291833?mt=8&fbclid=IwAR2Exy6OL_E5BnH-ARsfuTVVIBMloLk5RIZT8S1stGzYXOhF5wtw54JPCig)
-[<img src="{{ site.url }}/assets/downloadGooglePlay.png">](https://play.google.com/store/apps/details?id=la.blend.android&hl=en_US)
+[<img src="{{ site.url }}/assets/downloadAppstore.png">](https://itunes.apple.com/us/app/genies-3d-clones/id606291833?mt=8&fbclid=IwAR2Exy6OL_E5BnH-ARsfuTVVIBMloLk5RIZT8S1stGzYXOhF5wtw54JPCig)[<img src="{{ site.url }}/assets/downloadGooglePlay.png">](https://play.google.com/store/apps/details?id=la.blend.android&hl=en_US)
 
 ***
 
@@ -43,8 +41,7 @@ I am mostly invlolved with the fluid visual system and UI systems driving the ap
 Alpha Squad 5 is the first game I am proud to be working on at  MunkyFun. This is a mobile game where the user takes control of an elite squad of the finest.
 Media and store links coming soon. I have been involved the the development of UI and UI systems, server-client code and many other aspects of the game.
 
-[<img src="{{ site.url }}/assets/downloadAppstore.png">](https://itunes.apple.com/app/id1404078045?fbclid=IwAR1qRfPpUa_5V9sKl53jmKnJp35sTShMZnNri3VItKiuhO8hKQpNHLWhqrk)
-[<img src="{{ site.url }}/assets/downloadGooglePlay.png">](https://play.google.com/store/apps/details?id=com.kongregate.mobile.cobra.google)
+[<img src="{{ site.url }}/assets/downloadAppstore.png">](https://itunes.apple.com/app/id1404078045?fbclid=IwAR1qRfPpUa_5V9sKl53jmKnJp35sTShMZnNri3VItKiuhO8hKQpNHLWhqrk)[<img src="{{ site.url }}/assets/downloadGooglePlay.png">](https://play.google.com/store/apps/details?id=com.kongregate.mobile.cobra.google)
 
 ***
 
