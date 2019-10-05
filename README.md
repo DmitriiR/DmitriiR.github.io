@@ -25,22 +25,26 @@ For League of War: Mercenaries I have worked on monitization system implementati
 ***
 ## Genies - 3D Clones
 ![useful image]({{ site.url }}/assets/GeniesBanner.jpg)
-[<img src="{{ site.url }}/assets/downloadAppstore.png">](https://itunes.apple.com/us/app/genies-3d-clones/id606291833?mt=8&fbclid=IwAR2Exy6OL_E5BnH-ARsfuTVVIBMloLk5RIZT8S1stGzYXOhF5wtw54JPCig)
-[<img src="{{ site.url }}/assets/downloadGooglePlay.png">](https://play.google.com/store/apps/details?id=la.blend.android&hl=en_US)
 
 Genies are the best looking and most intelligent human clones in the world. With over a million clothing and facial options provided, you can create a Genie clone to mirror your exact human self.
 I am mostly invlolved with the fluid visual system and UI systems driving the application. As well as animation systems, animations, database and dabase security, optimization and any other elements needed. 
 
+[<img src="{{ site.url }}/assets/downloadAppstore.png">](https://itunes.apple.com/us/app/genies-3d-clones/id606291833?mt=8&fbclid=IwAR2Exy6OL_E5BnH-ARsfuTVVIBMloLk5RIZT8S1stGzYXOhF5wtw54JPCig)
+[<img src="{{ site.url }}/assets/downloadGooglePlay.png">](https://play.google.com/store/apps/details?id=la.blend.android&hl=en_US)
+
 ***
+
 ## Alpha Squad 5 
 ![useful image]({{ site.url }}/assets/AlphaSquadBanner.jpg)
-[<img src="{{ site.url }}/assets/downloadAppstore.png">](https://itunes.apple.com/app/id1404078045?fbclid=IwAR1qRfPpUa_5V9sKl53jmKnJp35sTShMZnNri3VItKiuhO8hKQpNHLWhqrk)
-[<img src="{{ site.url }}/assets/downloadGooglePlay.png">](https://play.google.com/store/apps/details?id=com.kongregate.mobile.cobra.google)
 
 Alpha Squad 5 is the first game I am proud to be working on at  MunkyFun. This is a mobile game where the user takes control of an elite squad of the finest.
 Media and store links coming soon. I have been involved the the development of UI and UI systems, server-client code and many other aspects of the game.
 
+[<img src="{{ site.url }}/assets/downloadAppstore.png">](https://itunes.apple.com/app/id1404078045?fbclid=IwAR1qRfPpUa_5V9sKl53jmKnJp35sTShMZnNri3VItKiuhO8hKQpNHLWhqrk)
+[<img src="{{ site.url }}/assets/downloadGooglePlay.png">](https://play.google.com/store/apps/details?id=com.kongregate.mobile.cobra.google)
+
 ***
+
 ## DinoTank
 
 Dinosaurs driving tanks, naturally! I implemented the fundamental features and framework for this Android mobile game and took a lead role in it's development and future release. DinoTank features dynamic combat, single player campaign, multiplayer combat, advanced physics, monetization/upgrade system and currency. Apart from the core of the game, I also implemented advanced features such as realistic tank physics, projectile ballistics computations, damage modeling, advanced AI, object pooling, latency compensation, state storage system, mesh welding, all UI + scenes and transisions, post processing and shaders, and other systems. 
@@ -51,15 +55,15 @@ The target demographic (8-14) love it.
 ![useful image]({{ site.url }}/assets/Screen.png)
 
 ***
+
 ## Editor Tools
 
 Here are some Editor tools I made. I did this for management systems and other involved scrips. Not only are custom inspectors fun to write, they streamline workflow and make it easy for designers to focus on creating. 
 
 ![useful image]({{ site.url }}/assets/Tools-01.png)
   
-
-
 ***
+
 ## Elementum
 
 Elementum is an action RPG game I wrote in C++ within the Unreal Engine framework. As part of a Development team, I designed and implemented game features with the specific focus on AI Behavior, Animation Systems, Effects, Gameplay and the complete experience of the game finale. 
@@ -73,6 +77,7 @@ You can download the game here [Part1]({{ site.url }}/assets/Elementum.part1.rar
 
 
 ***
+
 ## Apoptosis
 
 Apoptosis is a networked Real Time Strategy (“RTS”) that takes place in the world of the microscopic. Taking the project lead role, I created and deployed the complete user interface and developed the game’s styling UI, Design, Levels, Art, Gameplay, Programming and drove the marketing and promotion effort. As a result of my efforts, the game attracted pleasing interest at the Independent Game Developer Exhibition in Orlando FL in 2016. 
@@ -84,6 +89,7 @@ Apoptosis is a networked Real Time Strategy (“RTS”) that takes place in the 
 [Download]({{ site.url }}/assets/Apoptosis_Installer.zip).
 
 ***
+
 ## Tektonik
 
 Tektonik is multiplayer action arcade written in Unreal Engine where players combat each other with powerful weapons in a confined destructible environment. From creating the game concept to final implementation, I was central to what was recognized as “One of the most fun games to come through final project” by the cource directors and my peers at Full Sail University. Prototyped in C# within Unity and developed in C++ within Unreal, I took the lead project role and focused on game design, core system implementation, networking implementation, UI design & implementation/creation, user experience flow, artwork and complete documentation. With further development, the game could easily be developed into a viable commercial product.
@@ -91,6 +97,7 @@ Tektonik is multiplayer action arcade written in Unreal Engine where players com
 ![useful image]({{ site.url }}/assets/TektonikCombined-01.png)
 
 ***
+
 ## Block Match
 
 A personal project game written in Unity C#, with the objective of matching colors in various combinations, somewhat resembling Candy Crush Saga.
@@ -100,6 +107,7 @@ A personal project game written in Unity C#, with the objective of matching colo
 [Download]({{ site.url }}/assets/BlockMatch.zip).
 
 ***
+
 ## Nightmare Fever
 
 A personal project game written in Unity C#. An endless runner, where the player tries to beat the clock whilst escaping his greatest nightmare.
@@ -109,6 +117,7 @@ A personal project game written in Unity C#. An endless runner, where the player
 [Download]({{ site.url }}/assets/NightmareFever.zip).
 
 ***
+
 ## Escape From Pluto
 
 ASCII - based scrolling shooter “Bullet Hell” that won me the prestigious course director award at Full Sail University and is still used by the instructor as an example of what this course demands from students.
@@ -118,14 +127,15 @@ ASCII - based scrolling shooter “Bullet Hell” that won me the prestigious co
 
 [Download solition]({{ site.url }}/assets/EscapeFromPlutopSLN.zip).
 
-
 ***
+
 ## Bowling
 
 A fun Sunday spent writing this Android bwling game.
 [<img src="{{ site.url }}/assets/BawCapture-01.png">](https://www.youtube.com/watch?v=pLHXbX7MZUI)
  
 ***
+
 ## Rak Tool 
 
 As an independent project, I created an asset manipulation tool that greatly enrich and expand the functionality of the Burnout Studios RAK Asset Pack is currently available in the Unity Store. 
@@ -135,6 +145,7 @@ As an independent project, I created an asset manipulation tool that greatly enr
 Unfortunately this project is in development and not available for download.
 
 ***
+
 ## GoFish
 
 ASCII classic game Go Fish written in C++ as part of a class project in month 2 of the game development program at Full Sail University.  
@@ -145,10 +156,6 @@ ASCII classic game Go Fish written in C++ as part of a class project in month 2 
 
 <!-- Place this tag in your head or just before your close body tag. -->
 <script async defer src="https://buttons.github.io/buttons.js"></script>
-
-
-
-
 
 # Code
 
@@ -178,10 +185,6 @@ This system is used for computing launch velocity vector if you wish for a proje
 
 <!-- Place this tag where you want the button to render. -->
 <a class="github-button" href="https://github.com/DmitriiR/BallisticsComputer/archive/master.zip" data-icon="octicon-cloud-download" data-size="large" aria-label="Download DmitriiR/BallisticsComputer on GitHub">Get Source</a>
-
-
-
-
 
 # GDDs
 
