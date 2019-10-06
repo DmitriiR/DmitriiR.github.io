@@ -46,6 +46,15 @@ Media and store links coming soon. I have been involved the the development of U
 
 ***
 
+## Gem Diver 
+![useful image]({{ site.url }}/Gems/gems.png)
+
+Gem Diver is a fun match game, I worked on visuals, UI and monetization systems.
+
+[<img src="{{ site.url }}/assets/downloadAppstore.png">](https://apps.apple.com/us/app/gem-diver/id1209285622)[<img src="{{ site.url }}/assets/downloadGooglePlay.png">](https://play.google.com/store/apps/details?id=com.munkyfun.chimes)
+
+***
+
 ## DinoTank
 
 Dinosaurs driving tanks, naturally! I implemented the fundamental features and framework for this Android mobile game and took a lead role in it's development and future release. DinoTank features dynamic combat, single player campaign, multiplayer combat, advanced physics, monetization/upgrade system and currency. Apart from the core of the game, I also implemented advanced features such as realistic tank physics, projectile ballistics computations, damage modeling, advanced AI, object pooling, latency compensation, state storage system, mesh welding, all UI + scenes and transisions, post processing and shaders, and other systems. 
