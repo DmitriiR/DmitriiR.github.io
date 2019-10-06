@@ -37,7 +37,8 @@ I am mostly invlolved with the fluid visual system and UI systems driving the ap
 ***
 
 ## Alpha Squad 5 
-![useful image]({{ site.url }}/assets/AlphaSquadBanner.jpg)
+![useful image]({{site.url}}/AlphaSquad5/AlphaSquadBanner.jpg)
+![useful image]({{site.url}}/AlphaSquad5/strip.png)
 
 Alpha Squad 5 is the first game I am proud to be working on at  MunkyFun. This is a mobile game where the user takes control of an elite squad of the finest.
 Media and store links coming soon. I have been involved the the development of UI and UI systems, server-client code and many other aspects of the game.
