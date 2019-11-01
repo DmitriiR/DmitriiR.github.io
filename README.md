@@ -20,7 +20,7 @@ Feel free to download and enjoy.
 ![useful image]({{ site.url }}/LoW/LowM_banner.png)
 ![useful image]({{ site.url }}/LoW/strip.png)
 
-For League of War: Mercenaries I have worked on monitization system implementation, material loaders and other UI.
+For League of War: Mercenaries I have worked on monetization system implementation, material loaders and other UI.
 
 [<img src="{{ site.url }}/assets/downloadAppstore.png">](https://apps.apple.com/app/id993290127)[<img src="{{ site.url }}/assets/downloadGooglePlay.png">](https://play.google.com/store/apps/details?id=com.gree.shadow&hl=en_US)
 
@@ -30,7 +30,7 @@ For League of War: Mercenaries I have worked on monitization system implementati
 ![useful image]({{ site.url }}/assets/GeniesBanner.jpg)
 
 Genies are the best looking and most intelligent human clones in the world. With over a million clothing and facial options provided, you can create a Genie clone to mirror your exact human self.
-I am mostly invlolved with the fluid visual system and UI systems driving the application. As well as animation systems, animations, database and dabase security, optimization and any other elements needed. 
+I am mostly involved with the fluid visual system and UI systems driving the application. As well as animation systems, animations, database security, optimization and any other elements needed. 
 
 [<img src="{{ site.url }}/assets/downloadAppstore.png">](https://itunes.apple.com/us/app/genies-3d-clones/id606291833?mt=8&fbclid=IwAR2Exy6OL_E5BnH-ARsfuTVVIBMloLk5RIZT8S1stGzYXOhF5wtw54JPCig)[<img src="{{ site.url }}/assets/downloadGooglePlay.png">](https://play.google.com/store/apps/details?id=la.blend.android&hl=en_US)
 
@@ -41,7 +41,7 @@ I am mostly invlolved with the fluid visual system and UI systems driving the ap
 ![useful image]({{site.url}}/AlphaSquad5/strip.png)
 
 Alpha Squad 5 is the first game I am proud to be working on at  MunkyFun. This is a mobile game where the user takes control of an elite squad of the finest.
-Media and store links coming soon. I have been involved the the development of UI and UI systems, server-client code and many other aspects of the game.
+Media and store links coming soon. I have been involved the development of UI and UI systems, server-client code and many other aspects of the game.
 
 [<img src="{{ site.url }}/assets/downloadAppstore.png">](https://itunes.apple.com/app/id1404078045?fbclid=IwAR1qRfPpUa_5V9sKl53jmKnJp35sTShMZnNri3VItKiuhO8hKQpNHLWhqrk)[<img src="{{ site.url }}/assets/downloadGooglePlay.png">](https://play.google.com/store/apps/details?id=com.kongregate.mobile.cobra.google)
 
@@ -58,7 +58,7 @@ Gem Diver is a fun match game, I worked on visuals, UI and monetization systems.
 
 ## DinoTank
 
-Dinosaurs driving tanks, naturally! I implemented the fundamental features and framework for this Android mobile game and took a lead role in it's development and future release. DinoTank features dynamic combat, single player campaign, multiplayer combat, advanced physics, monetization/upgrade system and currency. Apart from the core of the game, I also implemented advanced features such as realistic tank physics, projectile ballistics computations, damage modeling, advanced AI, object pooling, latency compensation, state storage system, mesh welding, all UI + scenes and transisions, post processing and shaders, and other systems. 
+Dinosaurs driving tanks, naturally! I implemented the fundamental features and framework for this Android mobile game and took a lead role in it's development and future release. DinoTank features dynamic combat, single player campaign, multiplayer combat, advanced physics, monetization/upgrade system and currency. Apart from the core of the game, I also implemented advanced features such as realistic tank physics, projectile ballistics computations, damage modeling, advanced AI, object pooling, latency compensation, state storage system, mesh welding, all UI + scenes and transitions, post processing and shaders, and other systems. 
 The target demographic (8-14) love it.  
 
 ![useful image]({{ site.url }}/assets/mm.png)
@@ -69,7 +69,7 @@ The target demographic (8-14) love it.
 
 ## Editor Tools
 
-Here are some Editor tools I made. I did this for management systems and other involved scrips. Not only are custom inspectors fun to write, they streamline workflow and make it easy for designers to focus on creating. 
+Here are some Editor tools I made. I did this for management systems and other involved scripts. Not only are custom inspectors fun to write, they streamline workflow and make it easy for designers to focus on creating.
 
 ![useful image]({{ site.url }}/assets/Tools-01.png)
   
@@ -102,7 +102,7 @@ Apoptosis is a networked Real Time Strategy (“RTS”) that takes place in the 
 
 ## Tektonik
 
-Tektonik is multiplayer action arcade written in Unreal Engine where players combat each other with powerful weapons in a confined destructible environment. From creating the game concept to final implementation, I was central to what was recognized as “One of the most fun games to come through final project” by the cource directors and my peers at Full Sail University. Prototyped in C# within Unity and developed in C++ within Unreal, I took the lead project role and focused on game design, core system implementation, networking implementation, UI design & implementation/creation, user experience flow, artwork and complete documentation. With further development, the game could easily be developed into a viable commercial product.
+Tektonik is multiplayer action arcade written in Unreal Engine where players combat each other with powerful weapons in a confined destructible environment. From creating the game concept to final implementation, I was central to what was recognized as “One of the most fun games to come through final project” by the course directors and my peers at Full Sail University. Prototyped in C# within Unity and developed in C++ within Unreal, I took the lead project role and focused on game design, core system implementation, networking implementation, UI design & implementation/creation, user experience flow, artwork and complete documentation. With further development, the game could easily be developed into a viable commercial product.
 
 ![useful image]({{ site.url }}/assets/TektonikCombined-01.png)
 
