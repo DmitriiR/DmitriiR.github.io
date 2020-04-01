@@ -20,7 +20,7 @@ Feel free to download and enjoy.
 ![useful image]({{ site.url }}/LoW/LowM_banner.png)
 ![useful image]({{ site.url }}/LoW/strip.png)
 
-For League of War: Mercenaries I have worked on monetization system implementation, material loaders and other UI.
+For League of War: Mercenaries I have worked on monetization system implementation, new features, bug fixes, data systems, material loaders and other UI.
 
 [<img src="{{ site.url }}/assets/downloadAppstore.png">](https://apps.apple.com/app/id993290127)[<img src="{{ site.url }}/assets/downloadGooglePlay.png">](https://play.google.com/store/apps/details?id=com.gree.shadow&hl=en_US)
 
